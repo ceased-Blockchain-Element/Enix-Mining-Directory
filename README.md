@@ -1,7 +1,8 @@
 # Enix-Mining-Directory
 Enix Mining Directory Guide
 
-Tracking Site http://enix.arhash.xyz/#/
+Pool Link: http://enix.arhash.xyz/#/
+
 - Pending Blocks http://enix.arhash.xyz/#/blocks
 - Recent Payouts http://enix.arhash.xyz/#/payments
 - Miners Online http://enix.arhash.xyz/#/miners
@@ -17,7 +18,7 @@ Phoenix Miner: -coin eth -pool enix.arhash.xyz:8002 -wal (Address) -rmode 2 -wor
 9 Billion: Stratum - 8009 / Proxy - 8809
 12 Billion (Nice Hash): Stratum - 8012 / Proxy - 8812
 
-### Introduction
+### Introduction:
 
 This guide will cover how to mine ENIX on a windows based system through the Claymore miner program. This guide will detail both the installation and setup process of the miner. 
 
@@ -53,10 +54,10 @@ EthDcrMiner64.exe -epool stratum+tcp://enix.arhash.xyz:8002 -ewal (Address) -ewo
 pause
 ```
 
-**Remember to save the batch file before closing it down, or you will lose your configuration information. 
+**Remember to save the batch file before closing it down, or you will lose your configuration information.**
 Exceptions
 
-**Before running the batch file, it is best to check that the program has the correct permissions to run.  To do this, click on the  ethdcrminer64.exe file, go to properties, and ensure the tick box to "run program as administrator" is enabled.
+**Before running the batch file, it is best to check that the program has the correct permissions to run.  To do this, click on the  ethdcrminer64.exe file, go to properties, and ensure the tick box to "run program as administrator" is enabled.**
 
 ### Running the Miner:
 
