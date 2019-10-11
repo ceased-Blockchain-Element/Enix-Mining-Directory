@@ -24,7 +24,7 @@ Phoenix Miner: -coin eth -pool enix.arhash.xyz:8002 -wal (Address) -rmode 2 -wor
 This guide will cover how to mine ENIX on a windows based system through the Claymore miner program. This guide will detail both the installation and setup process of the miner. 
 
 ## Installation:
-You can download the latest version of Claymore miner (here)[https://bitcointalk.org/index.php?topic=1433925.0].
+You can download the latest version of Claymore miner [here](https://bitcointalk.org/index.php?topic=1433925.0).
 
 Once downloaded, extract the folder to a suitable location on your computer. (Such as a mining folder or onto the desktop.)
 
