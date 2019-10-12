@@ -29,7 +29,7 @@ This guide will cover how to mine ENIX on a windows based system through the Cla
 - 100-300GB HDD
 
 ## Installation:
-You can download the latest version of Claymore miner [here](https://bitcointalk.org/index.php?topic=1433925.0).
+You can download the latest version of Claymore miner [here](https://bitcointalk.org/index.php?topic=1433925.0). or here (updated 11/10/2019) https://github.com/Enix-Blockchain-Element/ClaymoresDualMiners
 
 Once downloaded, extract the folder to a suitable location on your computer. (Such as a mining folder or onto the desktop.)
 
