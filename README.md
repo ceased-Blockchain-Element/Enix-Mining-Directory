@@ -23,6 +23,11 @@ Phoenix Miner: -coin eth -pool enix.arhash.xyz:8002 -wal (Address) -rmode 2 -wor
 
 This guide will cover how to mine ENIX on a windows based system through the Claymore miner program. This guide will detail both the installation and setup process of the miner. 
 
+## Hardware Requirements
+
+- GPU 2 GB
+- 100-300GB HDD
+
 ## Installation:
 You can download the latest version of Claymore miner [here](https://bitcointalk.org/index.php?topic=1433925.0).
 
