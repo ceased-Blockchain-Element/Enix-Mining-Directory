@@ -75,3 +75,20 @@ Once you have downloaded and configured the batch file you are now ready to mine
 
 ## Enix News can be found here: https://t.me/ENIXchainnews
 ## Enix CMC (CoinMarketCap) here: https://coinmarketcap.com/currencies/enix/
+
+## Enix on Exchanges
+
+South Africa and World Wide: https://asymetrex.com/markets/enixbtc (Excluding USA)
+
+UK & Europe: https://altmarkets.io/trading/enixeth
+
+Wish to list Enix? 
+
+Enix can seamlessly be added to your application or exchange/tracking solution by using the following information to interact with the Enix Blockchain.
+Node Name: ENIX
+URL: https://rpc.enix.ai
+[[txhash]]: https://explorer.enix.ai/tx/[[txHash]]
+Chain ID: 418
+[[address]]: https://explorer.enix.ai/address/[[address]]
+Port: 443
+
