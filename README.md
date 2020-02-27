@@ -74,3 +74,4 @@ Before running the batch file, it is best to check that the program has the corr
 Once you have downloaded and configured the batch file you are now ready to mine! Double click on the batch file and the miner should start running! 
 
 ## Enix News can be found here: https://t.me/ENIXchainnews
+## Enix CMC (CoinMarketCap) here: https://coinmarketcap.com/currencies/enix/
