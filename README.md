@@ -2,17 +2,16 @@
 
 ## Enix Mining Directory Guide
 
-Pool Link: http://enix.arhash.xyz/#/
+Pool Link: https://enix.work/
 
-- Pending Blocks http://enix.arhash.xyz/#/blocks
-- Recent Payouts http://enix.arhash.xyz/#/payments
-- Miners Online http://enix.arhash.xyz/#/miners
-- About http://enix.arhash.xyz/#/about
+- Pending Blocks https://enix.work/#/blocks
+- Recent Payouts https://enix.work/#/payments
+- Miners Online https://enix.work/#/miners
+- About https://enix.work/#/about
 
-ClayMore: -wd 1 -r 1 -epool stratum+tcp://enix.arhash.xyz:8002 -ewal (Address) -eworker (Rig Name) -esm 0 -epsw x -allcoins 1 -asm 1
+Claymore: -wd 1 -r 1 -epool stratum+tcp://enix.work:8002 -ewal (Address) -eworker (Rig Name) -esm 0 -epsw x -allcoins 1 -asm 1
 
-Phoenix Miner: -coin eth -pool enix.arhash.xyz:8002 -wal (Address) -rmode 2 -worker (Rig Name)
-
+Phoenix Miner: -coin eth -pool enix.work:8002 -wal (Address) -rmode 2 -worker (Rig Name)
 
 2 Billion: Stratum - 8002 / Proxy - 8802
 4 Billion: Stratum - 8004 / Proxy - 8804
@@ -80,7 +79,6 @@ Once you have downloaded and configured the batch file you are now ready to mine
 
 South Africa and World Wide: https://asymetrex.com/markets/enixbtc (Excluding USA)
 
-UK & Europe: https://altmarkets.io/trading/enixeth
 
 Wish to list Enix? 
 
